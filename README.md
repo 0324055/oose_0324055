@@ -4,7 +4,8 @@
 資管3A 0324075 陳文聖
 資管3A 0324093 張榮傑
 
-![Uploading 工作分配.png…]()
+<img width="1143" alt="default" src="https://cloud.githubusercontent.com/assets/22369793/21963112/6ca93a9a-db6f-11e6-9f17-6b1d24699cf6.png">
+
 
 
 摘要：
