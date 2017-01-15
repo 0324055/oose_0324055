@@ -4,7 +4,7 @@
 資管3A 0324075 陳文聖
 資管3A 0324093 張榮傑
 
-[工作分配表.pdf](https://github.com/0324055/oose_0324055/files/706636/default.pdf)
+![default](https://github.com/0324055/oose_0324055/files/706636/default.pdf)
 
 
 摘要：
